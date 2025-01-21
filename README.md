@@ -1,5 +1,5 @@
 # Setting up Environment
-* To check the Notebook for the Causal Project, go to its folder above (`causal_project`)
+* To check the Notebook for the Cleaning Project, go to its folder above (`cleaning_categorical_project`)
 
 ## Table of Contents
 
